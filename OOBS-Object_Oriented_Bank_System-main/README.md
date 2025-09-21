@@ -1,4 +1,4 @@
-# **(OOBS)** -> Object Oriented Bank System.
+# **(OOBS)** -> Object Oriented Banking System.
 
 <details>
 
@@ -6,10 +6,10 @@
 
 | Project details  |           |
 | ------------     | --------- |
-| Developer    :   | Kareem    |
+| Developer    :   |aniket   |
 | Prog lang    :   | C++       |
 | Version      :   | v3.0.0    |
-| Starting Date:   | 9th-4-2024|
+| Starting Date:   |sept 2023|
 
 </details>
 
